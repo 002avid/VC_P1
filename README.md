@@ -45,7 +45,7 @@ Sobre el fotograma original se dibujan círculos en las posiciones detectadas. E
 
 ### Ampliación
 
-Además de la versión pedida con círculos, se añadió una segunda versión más visual. En ella se dibuja una luna sobre la posición mas oscura y un sol sobre la más clara, usando elipses, líneas y círculos de OpenCV.
+Además de la versión pedida con círculos, se añadió una segunda versión más visual. En ella se dibuja una luna sobre la posición más oscura y un sol sobre la más clara, usando elipses, líneas y círculos de OpenCV.
 
 Esta ampliación mantiene la misma lógica de detección, pero cambia la forma de representar los puntos encontrados en la imagen.
 
